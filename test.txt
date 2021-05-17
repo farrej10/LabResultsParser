@@ -1,0 +1,26 @@
+OBX|1|A250|NEGATIVE|
+NTE|1|Comment for NEGATIVE result|
+OBX|2|A250|POSITIVE|
+NTE|2|Comment for POSITIVE result|
+OBX|3|B250|+++|
+NTE|3|Comment 1|
+NTE|3|Comment 2|
+OBX|4|B250|++|
+NTE|4|Comment 1|
+NTE|4|Comment 2|
+OBX|5|B250|+|
+NTE|5|Comment 1|
+NTE|5|Comment 2|
+OBX|6|B250|NIL|
+NTE|6|Comment 1|
+NTE|6|Comment 2|
+OBX|7|C100|20.0|
+NTE|7|Comment for C100 result|
+OBX|8|C100|-20.0|
+NTE|8|Comment for C100 result|
+OBX|9|C200|20.0|
+NTE|9|Comment for C200 result|
+OBX|10|C200|20|
+NTE|10|Comment for C200 result|
+OBX|11|C200|-20.0|
+NTE|11|Comment for C200 result|
