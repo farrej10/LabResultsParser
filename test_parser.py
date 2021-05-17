@@ -24,6 +24,10 @@ class TestParser(unittest.TestCase):
         test_parser = Parser("lab2.txt")
         self.assertEqual(test_parser.mapped_results(), test_result)
 
+        test_result = []
+        test_parser = Parser("empty.txt")
+        self.assertEqual(test_parser.mapped_results(), test_result)
+
     # runs a tests the parsing for all the possible combinations of test results
     def test_init(self):
         test_parser = Parser("test.txt")
