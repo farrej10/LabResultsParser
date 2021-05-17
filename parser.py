@@ -91,3 +91,4 @@ class Parser:
 
 
 parser = Parser("lab2.txt")
+print(parser.mapped_results())
