@@ -19,4 +19,4 @@ To run the program which prints the two results from lab2.txt: `python3 parser.p
 
 - Any float values will not overflow
 
-- Invalid filename with throw an exception and set the results array to `None`
+- Invalid filename will throw an exception and set the results array to `None`
